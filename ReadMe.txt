@@ -1,1 +1,1 @@
-For the project to work , you need to have wamp/xampp server and an sql database , and you are going to edit the name of the data base and password form every file to your database name and password , and your database have to be the same schema as the one in the files
+For the project to work , you need to have wamp/xampp server and an sql database , and you are going to edit the name of the database and password at every file to your database name and password , and your database have to be the same schema as the one in the files
